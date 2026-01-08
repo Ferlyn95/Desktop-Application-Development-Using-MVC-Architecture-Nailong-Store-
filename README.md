@@ -1,7 +1,7 @@
 # Nailong Store  
 ### Desktop Sales Application with MVC Architecture
 
-![Nailong Store App Preview](nailongstore.png)
+![Nailong Store App Preview](https://github.com/Ferlyn95/Desktop-Application-Development-Using-MVC-Architecture-Nailong-Store-/blob/main/NailongStore.png)
 
 ---
 
